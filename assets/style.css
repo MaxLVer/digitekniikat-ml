@@ -134,6 +134,11 @@ footer {
     border-radius: 0.5rem;
 }
 
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(0);
+}
+
 /* ========== Linkit ========== */
 
 a {
