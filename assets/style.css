@@ -81,6 +81,7 @@ main {
 .accordion-item {
     background-color: var(--bg-card);
     border: none;
+    padding: 3px;
 }
 
 .accordion-button {
