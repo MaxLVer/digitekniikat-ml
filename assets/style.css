@@ -100,10 +100,6 @@ main {
 
 /* ========== Taulukko ========== */
 
-.table {
-    color: white;
-}
-
 .table thead {
     background-color: var(--accent);
 }
@@ -156,8 +152,8 @@ a:hover {
     outline-offset: 2px;
 }
 
-/* ========== Ilmoitus ala kulmaan ========== */
-
+/* ========== Ilmoitus alakulmaan ========== */
+/* Made with inline assist */
 #toast {
     background: #1a1a1f; /* near-black with a hint of purple */
     color: #ffffff;
